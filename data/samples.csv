@@ -1,0 +1,5 @@
+sample,donor,day,library,archive,archive_bytes,url
+GSM6504538,Donor A,0,IgD B-cell enriched,GSM6504538_WU321-04-d0_PBMC-lib1.tar.gz,531702194,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504538/suppl/GSM6504538_WU321-04-d0_PBMC-lib1.tar.gz
+GSM6504540,Donor A,12,IgD B-cell enriched,GSM6504540_WU321-04-d12_PBMC-lib1.tar.gz,565770142,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504540/suppl/GSM6504540_WU321-04-d12_PBMC-lib1.tar.gz
+GSM6504592,Donor B,0,PBMC,GSM6504592_d0_PBMC-lib1.tar.gz,1442782903,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504592/suppl/GSM6504592_d0_PBMC-lib1.tar.gz
+GSM6504594,Donor B,12,PBMC,GSM6504594_d12_PBMC-lib1.tar.gz,1557623226,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504594/suppl/GSM6504594_d12_PBMC-lib1.tar.gz

@@ -1,0 +1,5 @@
+sample,donor,day,library,input_cells,after_qc,sampled_cells
+GSM6504538,Donor A,0,IgD B-cell enriched,9613,9534,3000
+GSM6504540,Donor A,12,IgD B-cell enriched,10575,10394,3000
+GSM6504592,Donor B,0,PBMC,65863,65839,3000
+GSM6504594,Donor B,12,PBMC,42318,42228,3000

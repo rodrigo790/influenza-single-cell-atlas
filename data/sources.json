@@ -1,0 +1,30 @@
+{
+  "GSM6504538.h5": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504538/suppl/GSM6504538_WU321-04-d0_PBMC-lib1.tar.gz",
+    "sha256": "2693befeff548c6b9e41dda296c08c669c904cd22eebf4426c298d65753069ba",
+    "bytes": 24294986,
+    "observed_date": "2026-11-25",
+    "note": "SHA-256 of filtered_feature_bc_matrix.h5 extracted from the linked library archive"
+  },
+  "GSM6504540.h5": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504540/suppl/GSM6504540_WU321-04-d12_PBMC-lib1.tar.gz",
+    "sha256": "15b47d2362c2aea23e3a1110ae57dfdce30385c98b34eda0a83405e03e5d36cc",
+    "bytes": 23888010,
+    "observed_date": "2026-11-25",
+    "note": "SHA-256 of filtered_feature_bc_matrix.h5 extracted from the linked library archive"
+  },
+  "GSM6504592.h5": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504592/suppl/GSM6504592_d0_PBMC-lib1.tar.gz",
+    "sha256": "146a84d4f760502640e308bcde09046cace03a5d5ae9445598e74019d452f432",
+    "bytes": 81034434,
+    "observed_date": "2026-11-25",
+    "note": "SHA-256 of filtered_feature_bc_matrix.h5 extracted from the linked library archive"
+  },
+  "GSM6504594.h5": {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6504nnn/GSM6504594/suppl/GSM6504594_d12_PBMC-lib1.tar.gz",
+    "sha256": "80e867cd7ee2b9cd392b7b916c960a682f860ac0e0e67519435d0bb3378b11a0",
+    "bytes": 73801787,
+    "observed_date": "2026-11-25",
+    "note": "SHA-256 of filtered_feature_bc_matrix.h5 extracted from the linked library archive"
+  }
+}

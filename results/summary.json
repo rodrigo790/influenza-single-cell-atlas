@@ -1,0 +1,15 @@
+{
+  "donors": 2,
+  "libraries": 4,
+  "analyzed_cells": 12000,
+  "input_cells": 128369,
+  "retained_features": 14962,
+  "clusters": 12,
+  "marker_labels": [
+    "B cells",
+    "Monocytes",
+    "NK cells",
+    "T cells",
+    "Unresolved"
+  ]
+}
